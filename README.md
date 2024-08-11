@@ -37,9 +37,9 @@ in on that level. With me adding this extra function in hard mode the user has a
 
 ### Technologies Used
 
-JavaScript - I have used simple DOM manipulation
-CSS - For styling the game
-HTML - For the elements of the game
+JavaScript - I have used simple DOM manipulation ,
+CSS - For styling the game,
+HTML - For the elements of the game.
 
 
 ### Testing
